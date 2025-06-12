@@ -4,8 +4,8 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" 
        alt="Pikachu waving" 
-       width="100" 
-       style="margin-right: 20px;" />
+       width="90" 
+       style="margin-left: 20px;" />
 
 </div>
 
