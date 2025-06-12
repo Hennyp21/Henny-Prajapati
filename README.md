@@ -1,15 +1,10 @@
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <h1>Hello there!</h1>
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" alt="Pikachu waving" width="90"/>
-      </td>
-    </tr>
-  </table>
-</div>
+# Hello there!
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" 
+       width="100" align="right" alt="Pikachu waving" />
+</p>
+
+
 
 ---
 
@@ -30,6 +25,13 @@ Currently, I'm exploring new algorithms, working on projects, and always eager t
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+- 🌱 I'm always learning and expanding my skills in machine learning, deep learning, and more.
+- 🤝 Looking to collaborate on exciting ML projects.
+- 🚀 Let's connect and build something amazing together!
+
+---
+
 
 ## 📫 How to reach me
 
