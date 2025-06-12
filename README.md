@@ -1,19 +1,25 @@
-# Hello there!
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" 
-       width="100" align="right" alt="Pikachu waving" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
+  <h1 align ="left"> Hello there!</h1>
+
+  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" 
+       alt="Pikachu waving" 
+       width="100" 
+       style="margin-right: 20px;" />
+
+</div>
 
 
 ---
 
-## About Me
+##  About Me
 
 I'm passionate about **Machine Learning** and building cool projects!  
 Currently, I'm exploring new algorithms, working on projects, and always eager to learn more.
 
 ---
+
+
 
 ## 🛠️ Technologies & Tools
 
