@@ -1,49 +1,123 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center">
 
-  <h1 align ="left"> Hello there!</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:FFD93D&height=150&section=header&text=henny%20prajapati&fontSize=28&fontColor=00001&animation=fadeIn"/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" 
-       alt="Pikachu waving" 
-       width="90" 
-       style="margin-left: 20px;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=000000&center=true&vCenter=true&width=520&lines=machine+learning;llm+%7C+rag+%7C+agentic+ai;computer+vision;explainable+ai"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="95"/>
 
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
+
+## about
+
+```yaml
+focus:
+  - machine learning
+  - deep learning
+  - llm applications
+  - rag pipelines
+  - agentic ai workflows
+  - explainable ai (xai)
+  - computer vision
+
+approach:
+  understand deeply
+  build practical systems
+  improve step by step
+```
+
+interested in designing ai systems that combine **learning, retrieval, reasoning, and interpretability**.  
+curious about how models make decisions and how they can be made more **transparent and reliable**.
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
+
+## tech stack
+
+<div align="center">
+
+### languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,mysql,git" />
+</p>
 
 ---
 
-##  About Me
+### ml & deep learning
+<p>
+<img src="https://img.shields.io/badge/pytorch-FFD93D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/tensorflow-FFB347?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-FFE0A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/cnns-FFD280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/model_evaluation-FFE0A3?style=for-the-badge"/>
+</p>
 
-I'm passionate about **Machine Learning** and building cool projects!  
-Currently, I'm exploring new algorithms, working on projects, and always eager to learn more.
 
 ---
 
-
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-- 🌱 I'm always learning and expanding my skills in machine learning, deep learning, and more.
-- 🤝 Looking to collaborate on exciting ML projects.
-- 🚀 Let's connect and build something amazing together!
+### genai & agentic systems
+<p>
+<img src="https://img.shields.io/badge/langchain-FFE0A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/langgraph-FFD280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/rag-FFB347?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/llms-FFD93D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FFE0A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/xai-FFD280?style=for-the-badge"/>
+</p>
 
 ---
 
-
-## 📫 How to reach me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hennyprajapati613@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henny-prajapati-bbba44359/)
+### computer vision
+<p>
+<img src="https://img.shields.io/badge/opencv-FFB347?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/yolo-FFD93D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ocr-FFB347?style=for-the-badge"/>
+</p>
 
 ---
 
-<sub>Thank you for visiting my profile! 🤗 Let's connect and collaborate on awesome projects!</sub>
+### backend & databases
+<p>
+<img src="https://img.shields.io/badge/fastapi-FFD93D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/rest_apis-FFB347?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/faiss-FFE0A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/chroma-FFD280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/vector_db-FFE0A3?style=for-the-badge"/>
+</p>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
+
+
+## 💌 let's connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/henny-prajapati-bbba44359/">
+<img src="https://img.shields.io/badge/linkedin-FFB347?style=for-the-badge&logo=linkedin&logoColor=000"/>
+</a>
+
+<a href="mailto:hennyprajapati613@gmail.com">
+<img src="https://img.shields.io/badge/email-FFD93D?style=for-the-badge&logo=gmail&logoColor=000"/>
+</a>
+
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<div align="center">
+
+### ✨ collaboration
+
+always open to working on interesting ideas in  
+
+**gen ai • llms • agentic systems • computer vision**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:FFD93D&height=130&section=footer"/>
+
+</div>
